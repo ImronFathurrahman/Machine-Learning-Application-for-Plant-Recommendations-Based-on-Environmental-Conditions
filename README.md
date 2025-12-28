@@ -6,3 +6,4 @@ This application uses the Random Forest Classifier algorithm, and the results ar
 3. Soil pH, 
 4. Water Availability, 
 5. Season
+
